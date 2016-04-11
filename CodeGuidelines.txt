@@ -1,0 +1,10 @@
+# Code guidelines
+# Projects should be build using CMake and work on Linux 14.04 LTS (or maybe 12.04 or 16.04, need to decide).  Put any configuration steps
+in this file in this file: 
+# example:
+  sudo apt-get intstall ROS
+
+
+# Style Guide
+ We attempt to follow the Google C++ style guide if possible.https://google.github.io/styleguide/cppguide.html to improve the consistency 
+ of the code.  Reasonable diversions from this guide are fine but should discussed.
